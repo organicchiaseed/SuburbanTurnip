@@ -13,6 +13,8 @@ next.js</p>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 apollo <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </p>
 
+<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg"  width="40" height="40"/>
+
 <!--
 **SuburbanTurnip/SuburbanTurnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
