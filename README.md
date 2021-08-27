@@ -11,7 +11,7 @@
 
 <h2>Backend:</h2>
 <p><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node js" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-apollo <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="graphql" alt="graphql" width="40" height="40"/> </p>
+<img src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" title="apollo" alt="apollo"width="40" height="40" <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="graphql" alt="graphql" width="40" height="40"/> </p>
 
 
 
