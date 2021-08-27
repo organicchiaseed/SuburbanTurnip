@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
-<p>💬I'm a self taught free lance Frontend Web Developer, </p>
-<p>🌱 currentlty exploring backend development.</p>
+<p>💬 I'm a self taught free lance Frontend Web Developer, </p>
+<p>🌱 Currentlty exploring backend development.</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuburbanTurnip&theme=dark)](https://git.io/streak-stats)
 
