@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a self taught free lance Frontend Web Developer, currentlty exploring backend development.
+### Hi there 👋 
+💬I'm a self taught free lance Frontend Web Developer, 
+🌱 currentlty exploring backend development.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuburbanTurnip&theme=dark)](https://git.io/streak-stats)
 
