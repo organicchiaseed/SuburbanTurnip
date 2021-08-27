@@ -10,8 +10,8 @@
 <img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" title="next js" alt=next js  width="40" height="40"/></p>
 
 <h2>Backend:</h2>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-apollo <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </p>
+<p><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node js" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
+apollo <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="graphql" alt="graphql" width="40" height="40"/> </p>
 
 
 
